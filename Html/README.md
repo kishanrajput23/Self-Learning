@@ -41,6 +41,4 @@
 
 ## 🔸 Chapter 5 : Search Engine Optimization
 
-- **For Notes : [CLICK HERE]()👈👈**
-
-- **For Practice Set Questions : [CLICK HERE]()👈👈**
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Html/Chapter%205/html_course_chapter_5.pdf)👈👈**
