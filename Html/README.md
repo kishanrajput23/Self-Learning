@@ -1,5 +1,7 @@
 # Html Tutorial For Beginners in Hindi 
 
+### Click on picture to watch tutorial👇👇
+
 [![HTML Tutorial by Code With Harry](https://github.com/kishanrajput23/Self-Learning/blob/main/Html/BsDoLVMnmZs-SD.jpg)](https://youtu.be/BsDoLVMnmZs "HTML Tutorial by Code With Harry")
 
 ## 🔸 Chapter 0 : Introduction
