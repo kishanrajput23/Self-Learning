@@ -27,10 +27,10 @@
 
 ## 🔸 Chapter 3 : Strings
 
-- **For Notes : [CLICK HERE]()👈👈**
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%203/Chapter%203.pdf)👈👈**
 
 
-- **For Practice Set Questions : [CLICK HERE]()👈👈**
+- **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%203/Chapter%203%20Practice%20Set.pdf)👈👈**
 
 
 # Python Advanced Tutorial in Hindi 
