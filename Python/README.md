@@ -33,6 +33,14 @@
 - **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%203/Chapter%203%20Practice%20Set.pdf)👈👈**
 
 
+## 🔸 Chapter 4 : Lists & Tuples
+
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%204/Chapter%204.pdf)👈👈**
+
+
+- **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%204/Chapter%204%20-%20Practice%20Set.pdf)👈👈**
+
+
 # Python Advanced Tutorial in Hindi 
 
 ### Click on picture to watch tutorial👇👇
