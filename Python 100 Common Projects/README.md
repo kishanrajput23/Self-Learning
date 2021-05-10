@@ -17,3 +17,7 @@
 - **[5. Convert celcius to fehrenheit](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/5.%20Convert%20celcius%20to%20fehrenheit.py)**
 
 - **[6. Convert fehrenheit to celcius](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/6.%20Convert%20fehrenheit%20to%20celcius.py)**
+
+- **[7. Creating a calender](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/7.%20Creating%20a%20calender.py)**
+
+- **[8. Calculating mass, density & volume](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/8.%20Calculating%20mass%2C%20density%20%26%20volume.py)**
