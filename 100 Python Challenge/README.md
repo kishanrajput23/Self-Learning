@@ -27,3 +27,6 @@
 - **[10. check if a number is equal to sum of its positive divisors, except itself](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/10.%20check%20if%20a%20number%20is%20equal%20to%20sum%20of%20its%20positive%20divisors%2C%20except%20itself.py)**
 
 - **[11. check if given year, month has Friday 13th](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/11.%20check%20if%20given%20year%2C%20month%20has%20Friday%2013th.py)**
+
+
+- **[12. return the next number greater than the two numbers a and b and divisible by b](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/12.%20return%20the%20next%20number%20greater%20than%20the%20two%20numbers%20a%20and%20b%20and%20divisible%20by%20b.py)**
