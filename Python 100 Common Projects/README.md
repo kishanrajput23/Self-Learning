@@ -21,3 +21,11 @@
 - **[7. Creating a calender](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/7.%20Creating%20a%20calender.py)**
 
 - **[8. Calculating mass, density & volume](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/8.%20Calculating%20mass%2C%20density%20%26%20volume.py)**
+
+- **[9. Determine the quadrant of a point](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/9.%20Determine%20the%20quadrant%20of%20a%20point.py)**
+
+- **[10. Determine is a traingle exist or not](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/10.%20Determine%20is%20a%20traingle%20exist%20or%20not.py)**
+
+- **[11. Check for a leap year](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/11.%20Check%20for%20a%20leap%20year.py)**
+
+- **[12. Check if points belongs to circle or not](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/12.%20Check%20if%20points%20belongs%20to%20circle%20or%20not.py)**
