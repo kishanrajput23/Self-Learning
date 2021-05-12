@@ -30,3 +30,13 @@
 
 
 - **[12. return the next number greater than the two numbers a and b and divisible by b](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/12.%20return%20the%20next%20number%20greater%20than%20the%20two%20numbers%20a%20and%20b%20and%20divisible%20by%20b.py)**
+
+- **[13. calculate the length of a number](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/13.%20calculate%20the%20length%20of%20a%20number.py)**
+
+- **[14. boolean values](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/14.%20boolean%20values.py)**
+
+- **[15. factorial of a number](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/15.%20factorial%20of%20a%20number.py)**
+
+- **[16. check if a function returns a whole number without decimals after dividing](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/16.%20check%20if%20a%20function%20returns%20a%20whole%20number%20without%20decimals%20after%20dividing.py)**
+
+- **[17. prime number](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/17.%20prime%20number.py)**
