@@ -40,3 +40,7 @@
 - **[16. check if a function returns a whole number without decimals after dividing](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/16.%20check%20if%20a%20function%20returns%20a%20whole%20number%20without%20decimals%20after%20dividing.py)**
 
 - **[17. prime number](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/17.%20prime%20number.py)**
+
+- **[18. sum of digits in an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/18.%20sum%20of%20digits%20in%20an%20integer.py)**
+
+- **[19. return the numbers divisible by 15 in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/19.%20return%20the%20numbers%20divisible%20by%2015%20in%20a%20list.py)**
