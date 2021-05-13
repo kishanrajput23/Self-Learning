@@ -29,3 +29,7 @@
 - **[11. Check for a leap year](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/11.%20Check%20for%20a%20leap%20year.py)**
 
 - **[12. Check if points belongs to circle or not](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/12.%20Check%20if%20points%20belongs%20to%20circle%20or%20not.py)**
+
+- **[13. Creating a quadratic equation](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/13.%20Creating%20a%20quadratic%20equation.py)**
+
+- **[14. Make ques of random numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/14.%20Make%20ques%20of%20random%20numbers.py)**
