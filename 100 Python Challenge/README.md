@@ -49,5 +49,7 @@
 
 - **[21. fibonacci series](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/21.%20fibonacci%20series.py)**
 
-## 📌Section 1 : String
+## 📌Section 2 : String
+
+- **[22. reverse a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/22.%20reverse%20a%20string.py)**
 
