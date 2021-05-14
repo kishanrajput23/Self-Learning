@@ -44,3 +44,10 @@
 - **[18. sum of digits in an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/18.%20sum%20of%20digits%20in%20an%20integer.py)**
 
 - **[19. return the numbers divisible by 15 in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/19.%20return%20the%20numbers%20divisible%20by%2015%20in%20a%20list.py)**
+
+- **[20. swap bits in an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/20.%20swap%20bits%20in%20an%20integer.py)**
+
+- **[21. fibonacci series](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Basic%20Coding%20Exercises/21.%20fibonacci%20series.py)**
+
+## 📌Section 1 : String
+
