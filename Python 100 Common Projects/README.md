@@ -33,3 +33,13 @@
 - **[13. Creating a quadratic equation](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/13.%20Creating%20a%20quadratic%20equation.py)**
 
 - **[14. Make ques of random numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/14.%20Make%20ques%20of%20random%20numbers.py)**
+
+- **[15. How to print ouy ASCII Table](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/15.%20How%20to%20print%20ouy%20ASCII%20Table.py)**
+
+- **[16. Creating multiplication table using while loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/16.%20Creating%20multiplication%20table%20using%20while%20loop.py)**
+
+- **[17. Creating multiplication table using for loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/17.%20Creating%20multiplication%20table%20using%20for%20loop.py)**
+
+- **[18. How to convert from base 2 to 9](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/18.%20How%20to%20convert%20from%20base%202%20to%209.py)**
+
+- **[19. How to build a simple calculator](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/19.%20How%20to%20build%20a%20simple%20calculator.py)**
