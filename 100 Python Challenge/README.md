@@ -53,3 +53,8 @@
 
 - **[22. reverse a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/22.%20reverse%20a%20string.py)**
 
+- **[23. swap two strings without using third variable](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/23.%20swap%20two%20strings%20without%20using%20third%20variable.py)**
+
+- **[24. count the number of vowels in string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/24.%20count%20the%20number%20of%20vowels%20in%20string.py)**
+
+- **[25. remove duplicates elements from a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/25.%20remove%20duplicates%20elements%20from%20a%20string.py)**
