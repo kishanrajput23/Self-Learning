@@ -43,3 +43,5 @@
 - **[18. How to convert from base 2 to 9](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/18.%20How%20to%20convert%20from%20base%202%20to%209.py)**
 
 - **[19. How to build a simple calculator](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/19.%20How%20to%20build%20a%20simple%20calculator.py)**
+
+- **[20. Finding number of digits in an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/20.%20Finding%20number%20of%20digits%20in%20an%20integer.py)**
