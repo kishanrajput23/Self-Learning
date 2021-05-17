@@ -58,3 +58,7 @@
 - **[24. count the number of vowels in string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/24.%20count%20the%20number%20of%20vowels%20in%20string.py)**
 
 - **[25. remove duplicates elements from a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/25.%20remove%20duplicates%20elements%20from%20a%20string.py)**
+
+- **[26. remove consecutive duplicates characters in a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/26.%20remove%20consecutive%20duplicates%20characters%20in%20a%20string.py)**
+
+- **[27. reverse words in a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/27.%20reverse%20words%20in%20a%20string.py)**
