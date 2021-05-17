@@ -45,3 +45,5 @@
 - **[19. How to build a simple calculator](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/19.%20How%20to%20build%20a%20simple%20calculator.py)**
 
 - **[20. Finding number of digits in an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/20.%20Finding%20number%20of%20digits%20in%20an%20integer.py)**
+
+- **[21. How to get sum and product of digits](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/21.%20How%20to%20get%20sum%20and%20product%20of%20digits.py)**
