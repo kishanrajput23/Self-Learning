@@ -63,6 +63,8 @@
 
 - **[27. reverse words in a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/27.%20reverse%20words%20in%20a%20string.py)**
 
+- **[28. longest common prefix](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/28.%20longest%20common%20prefix.py)**
+
 - **[29. return the letter added to string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/29.%20return%20the%20letter%20added%20to%20string.py)**
 
 - **[30. string to boolean conversion](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/30.%20string%20to%20boolean%20conversion.py)**
@@ -72,3 +74,9 @@
 - **[32. convert a string with decimals to an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/32.%20convert%20a%20string%20with%20decimals%20to%20an%20integer.py)**
 
 - **[33. return n copies of a given string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/33.%20return%20n%20copies%20of%20a%20given%20string.py)**
+
+- **[34. calculate the number of upper case letters in a string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/34.%20calculate%20the%20number%20of%20upper%20case%20letters%20in%20a%20string.py)**
+
+- **[35. convert string to hexadecimal numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/35.%20convert%20string%20to%20hexadecimal%20numbers.py)**
+
+- **[36. separate the digits of an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/36.%20separate%20the%20digits%20of%20an%20integer.py)**
