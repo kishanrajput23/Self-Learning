@@ -1,7 +1,5 @@
 # 100 Python Challenges🔥
 
-<img src="https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/100%20Python%20Challenges.png" alt="">
-
 ### 🔸For Enrolling in this course : [CLICK HERE](https://www.udemy.com/course/100-python-challenges/)👈
 
 ## 📌Section 1 : Basic Coding Exercises
