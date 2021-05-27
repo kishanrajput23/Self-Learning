@@ -80,3 +80,13 @@
 - **[35. convert string to hexadecimal numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/35.%20convert%20string%20to%20hexadecimal%20numbers.py)**
 
 - **[36. separate the digits of an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/36.%20separate%20the%20digits%20of%20an%20integer.py)**
+
+- **[37. check whether a string is a pangram or not](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/37.%20check%20whether%20a%20string%20is%20a%20pangram%20or%20not.py)**
+
+- **[38. remove all occurrences of a given character from an input string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/38.%20remove%20all%20occurrences%20of%20a%20given%20character%20from%20an%20input%20string.py)**
+
+- **[39. check if the given string is a valid pin or not](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/39.%20check%20if%20the%20given%20string%20is%20a%20valid%20pin%20or%20not.py)**
+
+- **[40. number of occurrences of a sub-string in a given string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/40.%20number%20of%20occurrences%20of%20a%20sub-string%20in%20a%20given%20string.py)**
+
+- **[41. convert the given string into Pig Latin](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/41.%20convert%20the%20given%20string%20into%20Pig%20Latin.py)**
