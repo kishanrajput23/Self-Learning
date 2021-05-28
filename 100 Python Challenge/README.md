@@ -96,3 +96,5 @@
 - **[43. write a Python program to get a string made of the first 2 and the last 2 chars from a given string](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/String/43.%20write%20a%20Python%20program%20to%20get%20a%20string%20made%20of%20the%20first%202%20and%20the%20last%202%20chars%20from%20a%20given%20string.py)**
 
 ## 📌Section 3 : List
+
+- **[44. replace elements in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/44.%20replace%20elements%20in%20a%20list.py)**
