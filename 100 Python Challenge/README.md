@@ -98,3 +98,13 @@
 ## 📌Section 3 : List
 
 - **[44. replace elements in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/44.%20replace%20elements%20in%20a%20list.py)**
+
+- **[45. remove zeroes from a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/45.%20remove%20zeroes%20from%20a%20list.py)**
+
+- **[46. return the kth largest element in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/46.%20return%20the%20kth%20largest%20element%20in%20a%20list.py)**
+
+- **[47. return the indices of all occurrences of an element in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/47.%20return%20the%20indices%20of%20all%20occurrences%20of%20an%20element%20in%20a%20list.py)**
+
+- **[48. remove all occurrences of an element from a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/48.%20remove%20all%20occurrences%20of%20an%20element%20from%20a%20list.py)**
+
+- **[49. concatenate n input lists](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/49.%20concatenate%20n%20input%20lists.py)**
