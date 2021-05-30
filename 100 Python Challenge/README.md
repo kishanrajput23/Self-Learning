@@ -108,3 +108,13 @@
 - **[48. remove all occurrences of an element from a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/48.%20remove%20all%20occurrences%20of%20an%20element%20from%20a%20list.py)**
 
 - **[49. concatenate n input lists](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/49.%20concatenate%20n%20input%20lists.py)**
+
+- **[50. return rows in pascal's triangle](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/50.%20return%20rows%20in%20pascal's%20triangle.py)**
+
+- **[55. highest number in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/55.%20highest%20number%20in%20a%20list.py)**
+
+- **[56. multiply all elements in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/56.%20multiply%20all%20elements%20in%20a%20list.py)**
+
+- **[59. return the missing number from a sequence of unique integers](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/59.%20return%20the%20missing%20number%20from%20a%20sequence%20of%20unique%20integers.py)**
+
+- **[60. return the digits in a number in the form of a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/60.%20return%20the%20digits%20in%20a%20number%20in%20the%20form%20of%20a%20list.py)**
