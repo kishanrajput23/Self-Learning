@@ -63,6 +63,14 @@
 - **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%206/Chapter%206%20-%20Practice%20Set.pdf)👈**
 
 
+## 🔸 Chapter 7 : Loops in Python
+
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%207/Chapter%207.pdf)👈**
+
+- **For Codes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/tree/main/Python/Chapter%207)👈**
+
+- **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%207/Chapter%207%20-%20Practice%20Set.pdf)👈**
+
 # Python Advanced Tutorial in Hindi 
 
 ### Click on picture to watch tutorial👇👇
