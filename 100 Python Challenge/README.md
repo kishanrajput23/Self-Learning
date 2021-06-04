@@ -122,3 +122,5 @@
 - **[61. return a list containing all the numbers within the start and end ranges](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/61.%20return%20a%20list%20containing%20all%20the%20numbers%20within%20the%20start%20and%20end%20ranges.py)**
 
 - **[63. return the missing number in a list containing elements from 1-100](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/63.%20return%20the%20missing%20number%20in%20a%20list%20containing%20elements%20from%201-100.py)**
+
+- **[64. remove duplicate elements from a python list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/64.%20remove%20duplicate%20elements%20from%20a%20python%20list.py)**
