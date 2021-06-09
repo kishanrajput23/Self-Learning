@@ -111,6 +111,12 @@
 
 - **[50. return rows in pascal's triangle](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/50.%20return%20rows%20in%20pascal's%20triangle.py)**
 
+- **[51. highest possible product](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/51.%20highest%20possible%20product.py)**
+
+- **[52. given a list of words in the singular form, return a set of those words in the plural form](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/52.%20given%20a%20list%20of%20words%20in%20the%20singular%20form%2C%20return%20a%20set%20of%20those%20words%20in%20the%20plural%20form.py)**
+
+- **[53. sort the words in the list based on their second letter from a to z](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/53.%20sort%20the%20words%20in%20the%20list%20based%20on%20their%20second%20letter%20from%20a%20to%20z.py)**
+
 - **[55. highest number in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/55.%20highest%20number%20in%20a%20list.py)**
 
 - **[56. multiply all elements in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/56.%20multiply%20all%20elements%20in%20a%20list.py)**
@@ -124,3 +130,7 @@
 - **[63. return the missing number in a list containing elements from 1-100](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/63.%20return%20the%20missing%20number%20in%20a%20list%20containing%20elements%20from%201-100.py)**
 
 - **[64. remove duplicate elements from a python list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/64.%20remove%20duplicate%20elements%20from%20a%20python%20list.py)**
+
+## 📌Section 10 : File Handling
+
+- **[99. return the number of times a given string occurs in a text file](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/File%20Handling/99.%20return%20the%20number%20of%20times%20a%20given%20string%20occurs%20in%20a%20text%20file.py)**
