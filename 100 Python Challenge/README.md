@@ -117,6 +117,8 @@
 
 - **[53. sort the words in the list based on their second letter from a to z](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/53.%20sort%20the%20words%20in%20the%20list%20based%20on%20their%20second%20letter%20from%20a%20to%20z.py)**
 
+- **[54. return the index of a target value in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/54.%20return%20the%20index%20of%20a%20target%20value%20in%20a%20list.py)**
+
 - **[55. highest number in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/55.%20highest%20number%20in%20a%20list.py)**
 
 - **[56. multiply all elements in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/56.%20multiply%20all%20elements%20in%20a%20list.py)**
