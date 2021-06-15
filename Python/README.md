@@ -81,6 +81,13 @@
 - **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%208/Chapter%208%20Practice%20Set.pdf)👈**
 
 
+## 📌 Project 1 : Snake, Water & Gun Game
+
+- **Project Description : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Project%201/Project%201.pdf)👈**
+
+- **For Code : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Project%201/main.py)👈**
+
+
 # Python Advanced Tutorial in Hindi 
 
 ### Click on picture to watch tutorial👇👇
