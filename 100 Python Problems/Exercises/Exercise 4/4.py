@@ -3,4 +3,6 @@
 #Please try to convert the integer to a string explicitly then or the string to an integer.
 a = "1"
 b = 2
-print(a + b)
+print(a + b)    # it throws an error
+
+print(int(a) + b)    #it is the right syntax
