@@ -97,6 +97,15 @@
 - **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%209/Chapter%209%20-%20Practice%20Set.pdf)👈**
 
 
+## 📌 Chapter 10 : Object Oriented Programming 
+
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2010/Chapter%2010%20-%20Oops.pdf)👈**
+
+- **For Codes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/tree/main/Python/Chapter%2010)👈**
+
+- **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2010/Chapter%2010%20-%20Practice%20Set.pdf)👈**
+
+
 # Python Advanced Tutorial in Hindi 
 
 ### Click on picture to watch tutorial👇👇
