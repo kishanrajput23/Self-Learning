@@ -123,6 +123,10 @@
 
 - **[56. multiply all elements in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/56.%20multiply%20all%20elements%20in%20a%20list.py)**
 
+- **[57. transform a list of characters into a list of dictionaries](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/57.%20Transform%20a%20list%20of%20characters%20into%20a%20list%20of%20dictionaries.py)**
+
+- **[58. Using sort() method, create a lambda function that sorts a list in descending order](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/58.%20Using%20sort()%20method%2C%20create%20a%20lambda%20function%20that%20sorts%20a%20list%20in%20descending%20order.py)**
+
 - **[59. return the missing number from a sequence of unique integers](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/59.%20return%20the%20missing%20number%20from%20a%20sequence%20of%20unique%20integers.py)**
 
 - **[60. return the digits in a number in the form of a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/60.%20return%20the%20digits%20in%20a%20number%20in%20the%20form%20of%20a%20list.py)**
