@@ -133,9 +133,15 @@
 
 - **[61. return a list containing all the numbers within the start and end ranges](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/61.%20return%20a%20list%20containing%20all%20the%20numbers%20within%20the%20start%20and%20end%20ranges.py)**
 
+- **[62. return the element that has the maximum number of consecutive occurrences in a list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/62.%20return%20the%20element%20that%20has%20the%20maximum%20number%20of%20consecutive%20occurrences%20in%20a%20list.py)**
+
 - **[63. return the missing number in a list containing elements from 1-100](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/63.%20return%20the%20missing%20number%20in%20a%20list%20containing%20elements%20from%201-100.py)**
 
 - **[64. remove duplicate elements from a python list](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/64.%20remove%20duplicate%20elements%20from%20a%20python%20list.py)**
+
+- **[65. combine elements from 2 lists](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/65.%20combine%20elements%20from%202%20lists.py)**
+
+- **[66. find the elements in a list whose sum is equal to a given value](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/66.%20find%20the%20elements%20in%20a%20list%20whose%20sum%20is%20equal%20to%20a%20given%20value.py)**
 
 ## 📌Section 10 : File Handling
 
