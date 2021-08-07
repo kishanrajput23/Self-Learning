@@ -143,6 +143,18 @@
 
 - **[66. find the elements in a list whose sum is equal to a given value](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/66.%20find%20the%20elements%20in%20a%20list%20whose%20sum%20is%20equal%20to%20a%20given%20value.py)**
 
+## 📌Section 5 : Set
+
+- **[77. compare two sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/77.%20compare%20two%20sets.py)**
+
+- **[78. intersection of sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/78.%20intersection%20of%20sets.py)**
+
+- **[79. difference of two sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/79.%20difference%20of%20two%20sets.py)**
+
+- **[80. union of sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/80.%20union%20of%20sets.py)**
+
+- **[81. symmetric difference of two sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/81.%20symmetric%20difference%20of%20two%20sets.py)**
+
 ## 📌Section 10 : File Handling
 
 - **[99. return the number of times a given string occurs in a text file](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/File%20Handling/99.%20return%20the%20number%20of%20times%20a%20given%20string%20occurs%20in%20a%20text%20file.py)**
