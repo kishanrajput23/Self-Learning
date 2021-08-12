@@ -47,3 +47,7 @@
 - **[20. Finding number of digits in an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/20.%20Finding%20number%20of%20digits%20in%20an%20integer.py)**
 
 - **[21. How to get sum and product of digits](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/21.%20How%20to%20get%20sum%20and%20product%20of%20digits.py)**
+
+- **[22. How to make a binary seach of number in an array](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/22.%20How%20to%20make%20a%20binary%20seach%20of%20number%20in%20an%20array.py)**
+
+- **[23. How to sum of N series of an element](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/23.%20How%20to%20sum%20of%20N%20series%20of%20an%20element.py)**
