@@ -51,3 +51,7 @@
 - **[22. How to make a binary seach of number in an array](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/22.%20How%20to%20make%20a%20binary%20seach%20of%20number%20in%20an%20array.py)**
 
 - **[23. How to sum of N series of an element](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/23.%20How%20to%20sum%20of%20N%20series%20of%20an%20element.py)**
+
+- **[24. How to get value of even & odd digits](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/24.%20How%20to%20get%20value%20of%20even%20%26%20odd%20digits.py)**
+
+- **[25. How to get a factorial of number using while loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/25.%20How%20to%20get%20a%20factorial%20of%20number%20using%20while%20loop.py)**
