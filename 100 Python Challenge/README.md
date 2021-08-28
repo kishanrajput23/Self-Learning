@@ -143,6 +143,26 @@
 
 - **[66. find the elements in a list whose sum is equal to a given value](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/List/66.%20find%20the%20elements%20in%20a%20list%20whose%20sum%20is%20equal%20to%20a%20given%20value.py)**
 
+## 📌Section 4 : Dictionary
+
+- **[67. maximum value in a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/67.%20maximum%20value%20in%20a%20dictionary.py)**
+
+- **[68. sum all the values in a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/68.%20sum%20all%20the%20values%20in%20a%20dictionary.py)**
+
+- **[69. multiply all the values in a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/69.%20multiply%20all%20the%20values%20in%20a%20dictionary.py)**
+
+- **[71. invert the keys and values of a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/71.%20invert%20the%20keys%20and%20values%20of%20a%20dictionary.py)**
+
+- **[72. generate a dictionary that contains key, value pairs from 1 to 10](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/72.%20generate%20a%20dictionary%20that%20contains%20key%2C%20value%20pairs%20from%201%20to%2010.py)**
+
+- **[73. remove empty items from a Dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/73.%20remove%20empty%20items%20from%20a%20Dictionary.py)**
+
+- **[74. map two lists into a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/74.%20map%20two%20lists%20into%20a%20dictionary.py)**
+
+- **[75. sort a dictionary by value](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/75.%20sort%20a%20dictionary%20by%20value.py)**
+
+- **[76. remove duplicates from a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/76.%20remove%20duplicates%20from%20a%20dictionary.py)**
+
 ## 📌Section 5 : Set
 
 - **[77. compare two sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/77.%20compare%20two%20sets.py)**
@@ -155,6 +175,16 @@
 
 - **[81. symmetric difference of two sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/81.%20symmetric%20difference%20of%20two%20sets.py)**
 
+## 📌Section 6 : Functions - Variable Scope
+
+- **[83. variable scope](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Functions%20-%20Variable%20Scope/83.%20variable%20scope.py)**
+
+## 📌Section 9: Exceptions
+
+- **[98. try-except clause](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Exceptions/98.%20try-except%20clause.py)**
+
 ## 📌Section 10 : File Handling
 
 - **[99. return the number of times a given string occurs in a text file](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/File%20Handling/99.%20return%20the%20number%20of%20times%20a%20given%20string%20occurs%20in%20a%20text%20file.py)**
+
+- **[100. read a csv file as a dictionary and return the dictionary keys](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/File%20Handling/100.%20read%20a%20csv%20file%20as%20a%20dictionary%20and%20return%20the%20dictionary%20keys.py)**
