@@ -184,6 +184,16 @@
 
 - **[84. check whether given year is leap year or not](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/84.%20check%20whether%20given%20year%20is%20leap%20year%20or%20not.py)**
 
+- **[85. number of days between two given dates](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/85.%20number%20of%20days%20between%20two%20given%20dates.py)**
+
+- **[86. return the previous day and the next day of a given date](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/86.%20return%20the%20previous%20day%20and%20the%20next%20day%20of%20a%20given%20date.py)**
+
+- **[87. convert year,month,day to day of year](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/87.%20convert%20year%2Cmonth%2Cday%20to%20day%20of%20year.py)**
+
+- **[89. subtract five days from a given date](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/89.%20subtract%20five%20days%20from%20a%20given%20date.py)**
+
+- **[90. return whether a date is a valid date](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/90.%20return%20whether%20a%20date%20is%20a%20valid%20date.py)**
+
 ## 📌Section 9: Exceptions
 
 - **[98. try-except clause](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Exceptions/98.%20try-except%20clause.py)**
