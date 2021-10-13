@@ -1,0 +1,1 @@
+Check if the python text file is exist by using (try & except statement)
