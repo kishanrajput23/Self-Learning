@@ -55,3 +55,7 @@
 - **[24. How to get value of even & odd digits](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/24.%20How%20to%20get%20value%20of%20even%20%26%20odd%20digits.py)**
 
 - **[25. How to get a factorial of number using while loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/25.%20How%20to%20get%20a%20factorial%20of%20number%20using%20while%20loop.py)**
+
+- **[26. How to get factorial using for loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/26.%20How%20to%20get%20factorial%20using%20for%20loop.py)**
+
+- **[27. How to create a fibonacci sequence](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/27.%20How%20to%20create%20a%20fibonacci%20sequence.py)**
