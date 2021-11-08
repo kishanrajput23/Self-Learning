@@ -1,0 +1,127 @@
+Python functions:
+Function: are pre-written lines of code that do a specific task.
+
+
+
+Function: are composed of:
+
+
+
+1. Definition code line.
+
+2. Argument.
+
+3. Retrun or print or yield or result making lines of code.
+
+
+
+Python functions:
+
+We define our own functions in Python and reuse them in the same program as many times as we need.
+
+
+
+def function_name(parameters):
+
+lines of code of the function should do
+
+return something
+
+
+
+Variable Scope:
+
+There two types of variables according to variable scope:
+
+Local variable:
+
+When the variable located and assigned to data value inside the function only, so it will affect that data value of the that variable inside that function only.
+
+Global variable:
+
+When the variable located and assigned to data value outside the function, so it will affect that data value of the that variable inside and out side that function.
+
+
+
+Python functions examples:
+
+1.Function That returns a value according to its argument :
+
+>>>def rectangle_area(width, length)
+
+area = width * length
+
+return area
+
+>>>def rectangle_area(6, 9)
+
+Result :54
+
+>>>def rectangle_area(4, l5)
+
+Result : 20
+
+2. Function that returns Boolean value :
+
+Example 1:
+
+def is_even(x):
+if x % 2 == 0:
+return True
+else:
+return False
+>>>def is_even(10)
+
+Result: True
+
+
+
+2. Function that returns Boolean value:
+
+Example 2:
+
+def is_odd(y):
+if y % 2 == 0:
+return True
+else:
+return False
+>>>def is_odd(8)
+
+Result: False
+
+3.Function that prints specific data:
+
+Example 1:
+
+def countdown(x):
+while x> 0:
+print n
+x = x-1
+print “Stop this is the end!"
+>>>def countdown(2)
+
+Result: 2
+
+1
+
+Stop this is the end!
+
+
+
+3. Function that print specific data:
+
+Example 2:
+
+def is_even_or_odd(n):
+if n % 2 == 0:
+return “this number is even”
+else:
+return “this number is odd”
+>>>def is_even_or_odd(2)
+
+Result: this number is even
+
+>>>def is_even_or_odd(7)
+
+Result: this number is odd
+
