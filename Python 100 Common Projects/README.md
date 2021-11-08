@@ -59,3 +59,13 @@
 - **[26. How to get factorial using for loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/26.%20How%20to%20get%20factorial%20using%20for%20loop.py)**
 
 - **[27. How to create a fibonacci sequence](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/27.%20How%20to%20create%20a%20fibonacci%20sequence.py)**
+
+- **[28. How to get the value of fibonacci element](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/28.%20How%20to%20get%20the%20value%20of%20fibonacci%20element.py)**
+
+- **[29. How to find the greatest common divisor](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/29.%20How%20to%20find%20the%20greatest%20common%20divisor.py)**
+
+- **[30. How to get maximum value of floating point number](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/30.%20How%20to%20get%20maximum%20value%20of%20floating%20point%20number.py)**
+
+- **[31. How to get prime and complex numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/31.%20How%20to%20get%20prime%20and%20complex%20numbers.py)**
+
+- **[32. Quadratic equations with solutions at specified range of coefficient](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/32.%20Quadratic%20equations%20with%20solutions%20at%20specified%20range%20of%20coefficient.py)**
