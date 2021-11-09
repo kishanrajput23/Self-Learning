@@ -1,0 +1,64 @@
+Python Programming Basics full Guide for Python Programmers & Data Analysts in a simple and easy way with Examples in just a couple of hours from zero to hero.
+
+you will learn:
+
+How to Install Python 3.
+
+How to use python IDLE
+
+How to Install Anaconda.
+
+How to use Jupyter notebook(Ipython).
+
+What the difference between  Variables & Operators.
+
+Operators Types.
+
+Python Data Types.
+
+Lambda Expression.
+
+String Functions & entries in Python.
+
+How to use Input String Function.
+
+How to create Lists & lists operations in Python.
+
+How to create Dictionaries & Dictionaries operations in Python .
+
+How to create Tuples & Tuples operations in Python.
+
+How to create Sets & Sets operations in Python.
+
+IF Statement and control flow.
+
+For Loop
+
+While Loop
+
+Error Exception in python.
+
+What are Python Functions.
+
+How to create  functions in Python.
+
+Python Modules.
+
+How to open Files in Python.
+
+Why to master Python Programming ?
+
+Python is a high level programming language, strong, elegant, and easy to learn.
+
+Faster than R programming language when used for data science.
+
+Has lots of libraries which facilitate its use for data analysis.
+
+Objective oriented programming Language so you can use objects when coding in python.
+
+Free open source programming language.
+
+ Python can be used for a large variety of programming tasks, such as for desktop applications, game programming and mobile development.
+
+Python is a cross platform language, which means that code written for one operating system, such as Windows, will work well on Mac OS or Linux without making any changes to the Python code.
+
