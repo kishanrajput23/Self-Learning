@@ -1,0 +1,163 @@
+Python Modules :
+
+are pre-written lines of code as functions pre-stored in python programming language ready to reuse by python programmers in python editor but before using, we should import them firstly.
+
+We called them python libraries especially the the huge lines of code.
+
+Examples:
+
+pandas
+
+numpy
+
+matplotlib
+
+random
+
+We can create our modules:
+
+We want to use the check_even_or_odd() function we defined it earlier in another Python script.
+
+Example:
+
+def even_or_odd(n):
+
+if n % 2 == 0:
+
+print('This number is even')
+
+else:
+
+print('This number is odd')
+
+
+
+
+
+So Firstly we save the last as check.py on our desktop, then we will import this module in new python.py:
+
+We will proceed as follow:
+>>>import check
+
+>>>answer = check.even_or_odd(3)
+
+>>>print(answer)
+
+Result: This number is odd
+
+>>>answer = check.even_or_odd(6)
+
+>>>print(answer)
+
+Result: This number is even
+
+
+
+Open files in Python:
+
+We should open files in python before we can read or write , so we could
+
+use open function in python to open files:
+
+>>>data_file = open(“file_name”, “open mode”)
+
+open modes:
+
+“r”: default read only mode.
+
+“rb”: Binary read only mode.
+
+“r+”:default read & write mode.
+
+“rb+”: Binary read & write mode.
+
+“w”:default write only mode.
+
+
+
+“w”: default write only mode.
+
+“wb”: Binary write only mode.
+
+“w+”:default read & write mode.
+
+“wb+”: Binary read & write mode.
+
+“b”:Binary mode.
+
+“a”: append read & write create the file if the file not exist mode.
+
+“x”: create the file if the file not exist mode.
+
+file.read():
+
+We use this method to read all the file or lines of file
+
+>>>f = open(“file_name”, “open mode”)
+
+>>>f = open(“file_name.txt”, “r”)
+
+>>>print(f.read( ))
+
+>>> print(f.read(2 ))
+
+>>> print(f.read( 6))
+
+>>> print(f.read(10))
+
+file.readline():
+
+We use this method to read the file line by line.
+
+>>>f = open(“file_name”, “open mode”)
+
+>>>f = open(“file_name.txt”, “r”)
+
+>>>print(f.readline( ))
+
+
+
+Loop with Open File Function:
+
+We use loop with Open File Function to read our file :
+
+>>>f = open(“file_name”, “open mode”)
+
+>>>f = open(“file_name.txt”, “r”)
+
+>>> for line in file:
+
+print(line)
+
+
+
+file.close():
+
+We use this method to close the file which is agood practice to avoid system Memory blocking by the files we opened .
+
+>>>f = open(“file_name”, “open mode”)
+
+>>>f = open(“file_name.txt”, “r”)
+
+>>>print(f.readline( ))
+
+>>>f.close( )
+
+
+
+File Removing:
+
+We use this method to read the file line by line.
+
+>>>data_file = open(“file_name”, “open mode”)
+
+>>>data_file = open(“file_name.txt”, “r”)
+
+>>>print(f.readline( ))
+
+>>>f.close
+
+>>>import os
+
+>>> os.remove(“file_name.txt”)
+
