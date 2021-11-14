@@ -1,4 +1,4 @@
-# Python Tutorial For Beginners in Hindi 
+# Python Tutorial For Beginners in Hindi🔥
 
 ### Click on picture to watch tutorial👇👇
 
@@ -106,8 +106,49 @@
 - **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2010/Chapter%2010%20-%20Practice%20Set.pdf)👈**
 
 
-# Python Advanced Tutorial in Hindi 
+## 📌 Chapter 11 : Inheritance & More on OOPS
+
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2011/Chapter%2011.pdf)👈**
+
+- **For Codes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/tree/main/Python/Chapter%2011)👈**
+
+- **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2011/Chapter%2011%20-%20Practice%20Set.pdf)👈**
+
+
+## 📌 Project 2 : Random Number Guessing Game
+
+- **Project Description : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Project%202/Project%202.pdf)👈**
+
+- **For Code : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Project%202/main.py)👈**
+
+
+# Python Advanced Tutorial in Hindi🔥
 
 ### Click on picture to watch tutorial👇👇
 
 [![PYTHON Tutorial by Code With Harry](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/61a7UkDO50s-SD.jpg)](https://youtu.be/61a7UkDO50s "PYTHON Advanced Tutorial by Code With Harry")
+
+
+## 📌 Chapter 12 : Advanced Python 1
+
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2012/Chapter%2012%20-%20Advanced%20Python%201.pdf)👈**
+
+- **For Codes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/tree/main/Python/Chapter%2012)👈**
+
+- **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2012/Chapter%2012%20-%20Practice%20Set.pdf)👈**
+
+
+## 📌 Chapter 13 : Advanced Python 2
+
+- **For Notes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2013/Chapter%2013%20-%20Advanced%20Python%202.pdf)👈**
+
+- **For Codes : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/tree/main/Python/Chapter%2013)👈**
+
+- **For Practice Set Questions : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Chapter%2013/Chapter%2013%20-%20Practice%20Set.pdf)👈**
+
+
+## 📌 Project 3 : Student Library
+
+- **Project Description : [CLICK HERE](https://github.com/kishanrajput23/Self-Learning/blob/main/Python/Project%203/Project%203.pdf)👈**
+
+- **For Code : [CLICK HERE]()👈**
