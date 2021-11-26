@@ -151,6 +151,8 @@
 
 - **[69. multiply all the values in a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/69.%20multiply%20all%20the%20values%20in%20a%20dictionary.py)**
 
+- **[70. return all unique values in a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/70.%20return%20all%20unique%20values%20in%20a%20dictionary.py)**
+
 - **[71. invert the keys and values of a dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/71.%20invert%20the%20keys%20and%20values%20of%20a%20dictionary.py)**
 
 - **[72. generate a dictionary that contains key, value pairs from 1 to 10](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Dictionary/72.%20generate%20a%20dictionary%20that%20contains%20key%2C%20value%20pairs%20from%201%20to%2010.py)**
@@ -175,6 +177,8 @@
 
 - **[81. symmetric difference of two sets](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/81.%20symmetric%20difference%20of%20two%20sets.py)**
 
+- **[82. remove elements that exist only in set1 but not in set2](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Set/82.%20remove%20elements%20that%20exist%20only%20in%20set1%20but%20not%20in%20set2.py)**
+
 ## 📌Section 6 : Functions - Variable Scope
 
 - **[83. variable scope](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Functions%20-%20Variable%20Scope/83.%20variable%20scope.py)**
@@ -193,6 +197,15 @@
 - **[89. subtract five days from a given date](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/89.%20subtract%20five%20days%20from%20a%20given%20date.py)**
 
 - **[90. return whether a date is a valid date](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/90.%20return%20whether%20a%20date%20is%20a%20valid%20date.py)**
+
+- **[92. convert unix timestamp to human readable format](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/92.%20convert%20unix%20timestamp%20to%20human%20readable%20format.py)**
+
+
+## 📌Section 8: Classes
+
+- **[93. calculator class](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Classes/93.%20calculator%20class.py)**
+
+- **[94. vehicle class](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Classes/94.%20vehicle%20class.py)**
 
 ## 📌Section 9: Exceptions
 
