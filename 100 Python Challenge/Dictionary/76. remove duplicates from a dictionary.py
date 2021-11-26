@@ -8,7 +8,7 @@ input_dict =  {'Box1':'Apple', 'Box2':'Mango', 'Box3':'Orange', 'Box4':'Apple', 
 Expected output = {'Box2': 'Mango', 'Box6': 'Orange', 'Box7': 'Strawberry', 'Box8': 'Apple'}
 """
 
-#Solution is:
+#Solution is :
 
 def remove_duplicates(input_dict):
     output_dict = {}
