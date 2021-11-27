@@ -183,7 +183,6 @@
 
 - **[83. variable scope](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Functions%20-%20Variable%20Scope/83.%20variable%20scope.py)**
 
-
 ## 📌Section 7 : Datetime Module
 
 - **[84. check whether given year is leap year or not](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/84.%20check%20whether%20given%20year%20is%20leap%20year%20or%20not.py)**
