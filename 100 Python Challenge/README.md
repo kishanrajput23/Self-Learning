@@ -194,9 +194,13 @@
 
 - **[87. convert year,month,day to day of year](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/87.%20convert%20year%2Cmonth%2Cday%20to%20day%20of%20year.py)**
 
+- **[88. calculate the date six months from a given date using the datetime module](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/88.%20calculate%20the%20date%20six%20months%20from%20a%20given%20date%20using%20the%20datetime%20module.py)**
+
 - **[89. subtract five days from a given date](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/89.%20subtract%20five%20days%20from%20a%20given%20date.py)**
 
 - **[90. return whether a date is a valid date](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/90.%20return%20whether%20a%20date%20is%20a%20valid%20date.py)**
+
+- **[91. convert a string date to a timestamp](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/91.%20convert%20a%20string%20date%20to%20a%20timestamp.py)**
 
 - **[92. convert unix timestamp to human readable format](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Datetime%20Module/92.%20convert%20unix%20timestamp%20to%20human%20readable%20format.py)**
 
@@ -206,6 +210,12 @@
 - **[93. calculator class](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Classes/93.%20calculator%20class.py)**
 
 - **[94. vehicle class](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Classes/94.%20vehicle%20class.py)**
+
+- **[95. return the number of 1's, 3's and 9's in an integer](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Classes/95.%20return%20the%20number%20of%201's%2C%203's%20and%209's%20in%20an%20integer.py)**
+
+- **[96. employee class](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Classes/96.%20employee%20class.py)**
+
+- **[97. person class](https://github.com/kishanrajput23/Self-Learning/blob/main/100%20Python%20Challenge/Classes/97.%20person%20class.py)**
 
 ## 📌Section 9: Exceptions
 
