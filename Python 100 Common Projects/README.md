@@ -69,3 +69,13 @@
 - **[31. How to get prime and complex numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/31.%20How%20to%20get%20prime%20and%20complex%20numbers.py)**
 
 - **[32. Quadratic equations with solutions at specified range of coefficient](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/32.%20Quadratic%20equations%20with%20solutions%20at%20specified%20range%20of%20coefficient.py)**
+
+- **[33. How to reverse numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/33.%20How%20to%20reverse%20numbers.py)**
+
+- **[34. How to expand strings of alphabet](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/34.%20How%20to%20expand%20strings%20of%20alphabet.py)**
+
+- **[35. How to replace substring of a string](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/35.%20How%20to%20replace%20substring%20of%20a%20string.py)**
+
+- **[36. How to select integers from string](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/36.%20How%20to%20select%20integers%20from%20string.py)**
+
+- **[37. How to sort words according to their length](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/37.%20How%20to%20sort%20words%20according%20to%20their%20length.py)**
