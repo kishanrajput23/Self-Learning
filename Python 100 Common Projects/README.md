@@ -79,3 +79,9 @@
 - **[36. How to select integers from string](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/36.%20How%20to%20select%20integers%20from%20string.py)**
 
 - **[37. How to sort words according to their length](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/37.%20How%20to%20sort%20words%20according%20to%20their%20length.py)**
+
+- **[38. How to find longest word in a string](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/38.%20How%20to%20find%20longest%20word%20in%20a%20string.py)**
+
+- **[39. How to get percentage of uppercase and lowercase](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/39.%20How%20to%20get%20percentage%20of%20uppercase%20and%20lowercase.py)**
+
+- **[40. How to check for string palindrome](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/40.%20How%20to%20check%20for%20string%20palindrome.py)**
