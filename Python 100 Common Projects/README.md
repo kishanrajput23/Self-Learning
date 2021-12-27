@@ -85,3 +85,13 @@
 - **[39. How to get percentage of uppercase and lowercase](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/39.%20How%20to%20get%20percentage%20of%20uppercase%20and%20lowercase.py)**
 
 - **[40. How to check for string palindrome](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/40.%20How%20to%20check%20for%20string%20palindrome.py)**
+
+- **[41. How to generate random numbers using arrays](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/41.%20How%20to%20generate%20random%20numbers%20using%20arrays.py)**
+
+- **[42. How to get maximum element in an array](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/42.%20How%20to%20get%20maximum%20element%20in%20an%20array.py)**
+
+- **[43. How to get minimum element in an array](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/43.%20How%20to%20get%20minimum%20element%20in%20an%20array.py)**
+
+- **[44. How to get number of even and odd numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/44.%20How%20to%20get%20number%20of%20even%20and%20odd%20numbers.py)**
+
+- **[45. How to get positive numbers out of negative numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/45.%20How%20to%20get%20positive%20numbers%20out%20of%20negative%20numbers.py)**
