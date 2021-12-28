@@ -95,3 +95,13 @@
 - **[44. How to get number of even and odd numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/44.%20How%20to%20get%20number%20of%20even%20and%20odd%20numbers.py)**
 
 - **[45. How to get positive numbers out of negative numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/45.%20How%20to%20get%20positive%20numbers%20out%20of%20negative%20numbers.py)**
+
+- **[46. How to get numbers greater than average of an array](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/46.%20How%20to%20get%20numbers%20greater%20than%20average%20of%20an%20array.py)**
+
+- **[47. How to replace items with -1, 0, 1](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/47.%20How%20to%20replace%20items%20with%20-1%2C%200%2C%201.py)**
+
+- **[48. How to check file extension](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/48.%20How%20to%20check%20file%20extension.py)**
+
+- **[49. How to remove symbols from text](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/49.%20How%20to%20remove%20symbols%20from%20text.py)**
+
+- **[50. How to get intersection of list using for loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/50.%20How%20to%20get%20intersection%20of%20list%20using%20for%20loop.py)**
