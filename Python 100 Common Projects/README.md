@@ -105,3 +105,13 @@
 - **[49. How to remove symbols from text](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/49.%20How%20to%20remove%20symbols%20from%20text.py)**
 
 - **[50. How to get intersection of list using for loop](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/50.%20How%20to%20get%20intersection%20of%20list%20using%20for%20loop.py)**
+
+- **[51. Simple intersection of list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/51.%20Simple%20intersection%20of%20list.py)**
+
+- **[52. Longest ordered sequence in ascending order](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/52.%20Longest%20ordered%20sequence%20in%20ascending%20order.py)**
+
+- **[53. How to get most occurance element](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/53.%20How%20to%20get%20most%20occurance%20element.py)**
+
+- **[54. How to bubble sort of elements in an array](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/54.%20How%20to%20bubble%20sort%20of%20elements%20in%20an%20array.py)**
+
+- **[55. How to sort array using selection sorting](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/55.%20How%20to%20sort%20array%20using%20selection%20sorting.py)**
