@@ -115,3 +115,13 @@
 - **[54. How to bubble sort of elements in an array](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/54.%20How%20to%20bubble%20sort%20of%20elements%20in%20an%20array.py)**
 
 - **[55. How to sort array using selection sorting](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/55.%20How%20to%20sort%20array%20using%20selection%20sorting.py)**
+
+- **[56. How to generate matrix of random numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/56.%20How%20to%20generate%20matrix%20of%20random%20numbers.py)**
+
+- **[57. How to get the rows and columns with maximum sum of elements](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/57.%20How%20to%20get%20the%20rows%20and%20columns%20with%20maximum%20sum%20of%20elements.py)**
+
+- **[58. Sum items in rows and columns of elements](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/58.%20Sum%20items%20in%20rows%20and%20columns%20of%20elements.py)**
+
+- **[59. How to sum diagonals of a matrix](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/59.%20How%20to%20sum%20diagonals%20of%20a%20matrix.py)**
+
+- **[60. How to interchange the principal diagonals of matrix](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/60.%20How%20to%20interchange%20the%20principal%20diagonals%20of%20matrix.py)**
