@@ -125,3 +125,13 @@
 - **[59. How to sum diagonals of a matrix](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/59.%20How%20to%20sum%20diagonals%20of%20a%20matrix.py)**
 
 - **[60. How to interchange the principal diagonals of matrix](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/60.%20How%20to%20interchange%20the%20principal%20diagonals%20of%20matrix.py)**
+
+- **[61. How to sort columns of element by sorting the first row](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/61.%20How%20to%20sort%20columns%20of%20element%20by%20sorting%20the%20first%20row.py)**
+
+- **[62. How to check rows and columns that has particular element](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/62.%20How%20to%20check%20rows%20and%20columns%20that%20has%20particular%20elements.py)**
+
+- **[63. How to generate beautiful unicode](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/63.%20How%20to%20generate%20beautiful%20unicode.py)**
+
+- **[64. How to get prices of products](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/64.%20How%20to%20get%20prices%20of%20products.py)**
+
+- **[65. How to make list of dictionary using 2 lists](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/65.%20How%20to%20make%20list%20of%20dictionary%20using%202%20lists.py)**
