@@ -135,3 +135,13 @@
 - **[64. How to get prices of products](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/64.%20How%20to%20get%20prices%20of%20products.py)**
 
 - **[65. How to make list of dictionary using 2 lists](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/65.%20How%20to%20make%20list%20of%20dictionary%20using%202%20lists.py)**
+
+- **[66. How to delete dictionary items](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/66.%20How%20to%20delete%20dictionary%20items.py)**
+
+- **[67. Return value of two arguments using function](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/67.%20Return%20value%20of%20two%20arguments%20using%20function.py)**
+
+- **[68. How to fill list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/68.%20How%20to%20fill%20list.py)**
+
+- **[69. How to get arithmetic mean of list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/69.%20How%20to%20get%20arithmetic%20mean%20of%20list.py)**
+
+- **[70. How to generate fibonacci sequence using functions](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/70.%20How%20to%20generate%20fibonacci%20sequence%20using%20functions.py)**
