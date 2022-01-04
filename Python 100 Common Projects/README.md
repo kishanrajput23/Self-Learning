@@ -145,3 +145,13 @@
 - **[69. How to get arithmetic mean of list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/69.%20How%20to%20get%20arithmetic%20mean%20of%20list.py)**
 
 - **[70. How to generate fibonacci sequence using functions](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/70.%20How%20to%20generate%20fibonacci%20sequence%20using%20functions.py)**
+
+- **[71. How to get fibonacci value using recursion](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/71.%20How%20to%20get%20fibonacci%20value%20using%20recursion.py)**
+
+- **[72. How to get factorial using recursion](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/72.%20How%20to%20get%20factorial%20using%20recursion.py)**
+
+- **[73. How to get the LCM](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/73.%20How%20to%20get%20the%20LCM.py)**
+
+- **[74. How to reverse word sequence](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/74.%20How%20to%20reverse%20word%20sequence.py)**
+
+- **[75. How to search for binary numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/75.%20How%20to%20search%20for%20binary%20numbers.py)**
