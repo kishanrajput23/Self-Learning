@@ -155,3 +155,23 @@
 - **[74. How to reverse word sequence](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/74.%20How%20to%20reverse%20word%20sequence.py)**
 
 - **[75. How to search for binary numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/75.%20How%20to%20search%20for%20binary%20numbers.py)**
+
+- **[76. How to make a ring shift or recycle items of a list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/76.%20How%20to%20make%20a%20ring%20shift%20or%20recycle%20items%20of%20a%20list.py)**
+
+- **[77. How to read text](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/77.%20How%20to%20read%20text.py)**
+
+- **[78. How to use read method](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/78.%20How%20to%20use%20read%20method.py)**
+
+- **[79. How to use readline method](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/79.%20How%20to%20use%20readline%20method.py)**
+
+- **[80. How to use readlines method](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/80.%20How%20to%20use%20readlines%20method.py)**
+
+- **[81. How to write file](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/81.%20How%20to%20write%20file.py)**
+
+- **[82. How to read text from file to dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/82.%20How%20to%20read%20text%20from%20file%20to%20dictionary.py)**
+
+- **[83. How to count number of lines, words, and letters in a text file](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/83.%20How%20to%20count%20number%20of%20lines%2C%20words%2C%20and%20letters%20in%20a%20text%20file.py)**
+
+- **[84. How to capture string errors](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/84.%20How%20to%20capture%20string%20errors.py)**
+
+- **[85. How to check for non existence of number](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/85.%20How%20to%20check%20for%20non%20existence%20of%20number.py)**
