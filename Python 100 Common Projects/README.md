@@ -175,3 +175,13 @@
 - **[84. How to capture string errors](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/84.%20How%20to%20capture%20string%20errors.py)**
 
 - **[85. How to check for non existence of number](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/85.%20How%20to%20check%20for%20non%20existence%20of%20number.py)**
+
+- **[86. How to display error message for non existed files](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/86.%20How%20to%20display%20error%20message%20for%20non%20existed%20files.py)**
+
+- **[87. How to get division by zero error](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/87.%20How%20to%20get%20division%20by%20zero%20error.py)**
+
+- **[88. How to get index out of exception](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/88.%20How%20to%20get%20index%20out%20of%20exception.py)**
+
+- **[89. How to raise exceptions](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/89.%20How%20to%20raise%20exceptions.py)**
+
+- **[90. How to use classes and constructors](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/90.%20How%20to%20use%20classes%20and%20constructors.py)**
