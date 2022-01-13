@@ -185,3 +185,13 @@
 - **[89. How to raise exceptions](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/89.%20How%20to%20raise%20exceptions.py)**
 
 - **[90. How to use classes and constructors](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/90.%20How%20to%20use%20classes%20and%20constructors.py)**
+
+- **[91. How to fill list with natural numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/91.%20How%20to%20fill%20list%20with%20natural%20numbers.py)**
+
+- **[92. How to fill list with random numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/92.%20How%20to%20fill%20list%20with%20random%20numbers.py)**
+
+- **[93. How to select even numbers from list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/93.%20How%20to%20select%20even%20numbers%20from%20list.py)**
+
+- **[94. How to create list from dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/94.%20How%20to%20create%20list%20from%20dictionary.py)**
+
+- **[95. How to unpack matrix into one level list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/95.%20How%20to%20unpack%20matrix%20into%20one%20level%20list.py)**
