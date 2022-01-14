@@ -190,8 +190,18 @@
 
 - **[92. How to fill list with random numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/92.%20How%20to%20fill%20list%20with%20random%20numbers.py)**
 
-- **[93. How to select even numbers from list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/93.%20How%20to%20select%20even%20numbers%20from%20list.py)**
+- **[93. How to select even numbers from list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/93.%20How%20to%20select%20even%20numbers%20from%20the%20list.py)**
 
 - **[94. How to create list from dictionary](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/94.%20How%20to%20create%20list%20from%20dictionary.py)**
 
 - **[95. How to unpack matrix into one level list](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/95.%20How%20to%20unpack%20matrix%20into%20one%20level%20list.py)**
+
+- **[96. Read data from file into lines and chracters](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/96.%20Read%20data%20from%20file%20into%20lines%20and%20chracters.py)**
+
+- **[97. How to calculate orbital speed](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/97.%20How%20to%20calculate%20orbital%20speed.py)**
+
+- **[98. Sum of random of 3 digit numbers](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/98.%20Sum%20of%20random%20of%203%20digit%20numbers%20.py)**
+
+- **[99. How to calculate the area and perimeter of right angled traingle](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/99.%20How%20to%20calculate%20the%20area%20and%20perimeter%20of%20right%20angled%20traingle.py)**
+
+- **[100. Write a program for checking pangram](https://github.com/kishanrajput23/Self-Learning/blob/main/Python%20100%20Common%20Projects/Projects/100.%20Write%20a%20program%20for%20checking%20pangram.py)**
