@@ -18,8 +18,9 @@ O/P: No values
 
 Eg2) java Example Mumbai Bangalore
 O/P: Mumbai, Bangalore
-```
+
 - [Note: You can use length property of an array to check its length
+```
 
 **📌4.** Initialize two character variables in a program and display the characters in alphabetical order.
 ```
@@ -45,7 +46,7 @@ If the gender is 'Male' and age is between 59 and 100, then the percentage of in
  
 **📌7.** Write a program to convert from upper case to lower case and vice versa of an alphabet and print the old character and new character as shown in example (Ex: a->A, M->m,).
 
-**📌8.** Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
+**📌8.** Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". (R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.)
 
 **📌9.** Write a program to print month in words, based on input month in numbers
 ```
@@ -67,3 +68,35 @@ Example3:
 **📌11.** Write a program to print even numbers between 23 and 57, each number should be printed in a separate row.  
 
 **📌12.** Write a program to check if a given number is prime or not
+
+**📌13.** Write a program to print prime numbers between 10 and 99.
+
+**📌14.** Write a program to add all the values in a given number and print. Ex: 1234 --> 10
+
+**📌15.** Write a program to print * in Floyds format.
+```
+Example : Input - 4
+Output:
+*
+* *
+* * *
+* * * *
+```
+
+**📌16.** Write a program to reverse a given number and print
+```
+Example:
+i/p : 12345
+o/p : 54321
+```
+
+**📌17.** Write a program to find if the given number is palindrome or not
+```
+Example 1:
+i/p : 4004
+o/p : 4004 is palindrome
+
+Example 2:
+i/p : 1234
+o/p : 1234 is not a palindrome
+```
