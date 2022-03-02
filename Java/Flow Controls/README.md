@@ -1,4 +1,4 @@
-# Flow Controls
+# Flow Controls Assignment Questions
 
 **📌1. (a)** Write a program to check if a given number is Positive, Negative, or Zero.
 
@@ -29,3 +29,41 @@ O/P: e,s
 Eg2) if first character is a and second is e
 O/P:a,e
 ```
+
+**📌5.** Initialize a character variable in a program and if the value is alphabet then print "Alphabet" if it’s a number then print "Digit" and for other characters print "Special Character".
+
+**📌6.** Write a program to accept gender ("Male" or "Female") and age from command line arguments and print the percentage of interest based on the given conditions.
+```
+If the gender is 'Female' and age is between 1 and 58, then the percentage of interest is 8.2%.
+
+If the gender is 'Female' and age is between 59 and 100, then the percentage of interest is 9.2%.
+
+If the gender is 'Male' and age is between 1 and 58, then the percentage of interest is 8.4%.
+
+If the gender is 'Male' and age is between 59 and 100, then the percentage of interest is 10.5%.
+```
+ 
+**📌7.** Write a program to convert from upper case to lower case and vice versa of an alphabet and print the old character and new character as shown in example (Ex: a->A, M->m,).
+
+**📌8.** Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
+
+**📌9.** Write a program to print month in words, based on input month in numbers
+```
+Example1:
+       C:\>java Sample 12
+       O/P Expected: December
+
+Example2:
+       C:\>java Sample 
+       O/P Expected: Please enter the month in numbers
+
+Example3:
+       C:\>java Sample 15
+       O/P Expected: Invalid month  
+```
+
+**📌10.** Write a program to print numbers from 1 to 10 in a single row with one tab space.  
+
+**📌11.** Write a program to print even numbers between 23 and 57, each number should be printed in a separate row.  
+
+**📌12.** Write a program to check if a given number is prime or not
