@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="assets/ms.ico" type="image/x-icon">
+    <title>Microsoft – Cloud, Computers, Apps & Gaming</title>
+</head>
+
+<body>
+    <div class="container mx-auto">
+        <!-- Nav Bar v -->
+        <div class="navbar flex justify-between items-center p-4">
+            <div class="flex justify-center items-center md:order-2">
+                <div class="hamburger inline-block p-4 cursor-pointer md:hidden">
+                    <div class="line h-0.5 w-6 my-1 bg-black"></div>
+                    <div class="line h-0.5 w-6 my-1 bg-black"></div>
+                    <div class="line h-0.5 w-6 my-1 bg-black"></div>
+                </div>
+                <div class="search md:hidden">
+                    <img class="w-5" src="assets/search.jpg" alt="search">
+                </div>
+            </div>
+
+            <div class="mslogo md:order-1 flex justify-center">
+                <div>
+                    <img class="w-28" src="assets/ms-logo.png" alt="">
+                </div>
+                <div
+                    class="features md:flex absolute md:static md:mx-4 md:space-x-2 -translate-x-96 md:translate-x-0 w-fit md:w-auto bg-gray-200 md:bg-white ">
+                    <div class="fitem">Microsoft 365</div>
+                    <div class="fitem">Teams</div>
+                    <div class="fitem">Windows</div>
+                    <div class="fitem">Surface</div>
+                    <div class="fitem">Xbox</div>
+                    <div class="fitem">Support</div>
+                </div>
+            </div>
+
+            <div class="cart flex md:order-3 items-center">
+                <div class="search hidden md:block"><img class="w-5" src="assets/search.jpg" alt="search"></div>
+                <div class="flex items-center">
+                    <!-- Cart Account  if any error occurs the just remove below lines-->
+                    <div class="shop">
+                        <img class="w-5 ml-7" src="assets/cart.png" alt="">
+                    </div>
+                    <div class="account">
+                        <img class="w-7 ml-7" src="assets/user.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slider Box section -->
+        <div class="slider flex flex-col-reverse md:flex-row bg-[#f2f2f2] mx-1 -mt-4 md:-mt-0 md:p-20">
+            <div class="left flex flex-col justify-center bg-white md:bg-[#f2f2f2] py-8 md:mx-20">
+                <h1 class="text-2xl md:text-4xl mx-5 font-semibold">Surface Laptop Go 3</h1>
+                <!-- w-[27rem] -->
+                <p class="w-8/9 md:w-3/4 mx-5 py-4">An ultraportable, everyday laptop with the performance and battery
+                    life
+                    you need to get it all done.</p>
+                <button class="bg-[#0167b8] text-white p-3 font-bold mx-5 w-fit">Learn more</button>
+            </div>
+            <div class="right">
+                <img class="" src="assets/laptop.png" alt="Laptop">
+            </div>
+        </div>
+
+        <!-- Line Break section -->
+        <hr class="bg-black">
+
+        <!-- Promotional section -->
+        <div class="promo flex justify-evenly mt-20">
+            <div class="md:flex md:justify-between md:space-x-10">
+                <div class="item flex flex-col">
+                    <img class="w-12 self-center" src="assets/icon1.webp" alt="">
+                    <span class="font-bold text-[#0167b8] underline text-center mt-2 mb-8">Choose your Microsoft
+                        365</span>
+                </div>
+                <div class="item flex flex-col">
+                    <img class="w-12 self-center" src="assets/icon3.webp" alt="">
+                    <span class="font-bold text-[#0167b8] underline text-center mt-2">Buy Xbox games and consoles</span>
+                </div>
+            </div>
+
+            <div class="md:flex md:justify-between md:space-x-10">
+                <div class="item flex flex-col">
+                    <img class="w-12 self-center" src="assets/icon2.webp" alt="">
+                    <span class="font-bold text-[#0167b8] underline text-center mt-2 mb-8">Explore Surface
+                        devices</span>
+                </div>
+                <div class="item flex flex-col">
+                    <img class="w-12 self-center" src="assets/icon1.webp" alt="">
+                    <span class="font-bold text-[#0167b8] underline text-center mt-2">Get Windows 11</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
